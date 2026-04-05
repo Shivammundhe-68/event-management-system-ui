@@ -32,6 +32,3 @@ To design event management syestem web interface pages based on previous researc
 ### Contact Page
 ![Contact](contactUs.png)
 
-##  GitHub Link
-
-(Add your repo link)
