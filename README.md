@@ -22,7 +22,15 @@ To design event management syestem web interface pages based on previous researc
 
 ##  Screenshots
 
-(Add screenshots here)
+
+### Home Page
+![Home](homepage.png)
+
+### Booking Page
+![Booking](Booking.png)
+
+### Contact Page
+![Contact](contactUs.png)
 
 ##  GitHub Link
 
